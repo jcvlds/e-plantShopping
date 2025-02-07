@@ -1,3 +1,4 @@
+<img src="/vite.svg" alt="Vite Logo" />
 
 import React, { useState } from 'react';
 import ProductList from './ProductList';
